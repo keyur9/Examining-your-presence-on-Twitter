@@ -1,4 +1,4 @@
-#### Examining your presence on Twitter
+## Examining your presence on Twitter
 
 ### Visualizing using Tableau
 
